@@ -12,21 +12,6 @@ sections:
       deliver inspiring work, which enables your organization to grow. [Let's
       talk](/contact/).
     actions: []
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    actions: []
-    type: hero_section
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
